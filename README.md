@@ -232,25 +232,18 @@ Explain the exact structural difference between the Multi-Head Attention mechani
 ## Generated Report
 ![Generated Report](images/op5.jpg)
 
-## Retrieved Context from Document
 ![Retrieved Context](images/op6.jpg)
 
-## Document Analysis
 ![Document Analysis](images/op7.jpg)
 
-## Agent Workflow Execution
 ![Agent Workflow Execution](images/op8.jpg)
 
-## Research Agent Processing
 ![Research Agent Processing](images/op9.jpg)
 
-## Context Synthesis
 ![Context Synthesis](images/op10.jpg)
 
-## Final Response Generation
 ![Final Response Generation](images/op11.jpg)
 
-## Complete Multi-Agent RAG Workflow
 ![Complete Multi-Agent RAG Workflow](images/op12.jpg)
 
 ---

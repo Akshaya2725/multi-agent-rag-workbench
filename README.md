@@ -211,33 +211,47 @@ Explain the exact structural difference between the Multi-Head Attention mechani
 
 # Sample Output Screenshots
 
+## Backend Connection
 ![Backend connection](images/backend1.jpg)
 
+## Frontend Connection
 ![frontend connection](images/frontend.jpg)
 
+## Output
 ![outputt](images/op2.jpg)
 
+## Loading the Uploaded PDF
 ![loading the uploaded pdf](images/op1.jpg)
 
+## Chatbox to Ask a Question About the Uploaded PDF
 ![chatbox to ask a question about the uploaded pdf](images/op3.jpg)
 
+## Asking a Question
 ![Asking a question:](images/op4.jpg)
 
+## Generated Report
 ![Generated Report](images/op5.jpg)
 
-![](images/op6.jpg)
+## Retrieved Context from Document
+![Retrieved Context](images/op6.jpg)
 
-![](images/op7.jpg)
+## Document Analysis
+![Document Analysis](images/op7.jpg)
 
-![](images/op8.jpg)
+## Agent Workflow Execution
+![Agent Workflow Execution](images/op8.jpg)
 
-![](images/op9.jpg)
+## Research Agent Processing
+![Research Agent Processing](images/op9.jpg)
 
-![](images/op10.jpg)
+## Context Synthesis
+![Context Synthesis](images/op10.jpg)
 
-![](images/op11.jpg)
+## Final Response Generation
+![Final Response Generation](images/op11.jpg)
 
-![](images/op12.jpg)
+## Complete Multi-Agent RAG Workflow
+![Complete Multi-Agent RAG Workflow](images/op12.jpg)
 
 ---
 

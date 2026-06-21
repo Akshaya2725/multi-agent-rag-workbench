@@ -5,7 +5,9 @@ A Multi-Agent Retrieval-Augmented Generation (RAG) system designed to perform in
 The system combines document-grounded retrieval with specialized AI agents that work together to generate context-aware and research-focused responses. Unlike traditional single-agent chatbots, this architecture distributes responsibilities across multiple agents, improving scalability, contextual understanding, and response quality.
 
 ---
+# Test
 
+![Test](images/backend1.jpg)
 # Overview
 
 The Multi-Agent Research Assistant processes uploaded documents, retrieves relevant information using vector search, and synthesizes responses through a collaborative agent workflow.

@@ -205,7 +205,7 @@ multi-agent-research-assistant/
 # Sample Query
 
 ```text
-Compare the uploaded research paper with recent developments in the field.
+Explain the exact structural difference between the Multi-Head Attention mechanism and a standard Scaled Dot-Product Attention block as outlined in the paper. Include how the scaling factor $\frac{1}{\sqrt{d_k}}$ prevents vanishing gradients during training
 ```
 
 ---
@@ -213,13 +213,33 @@ Compare the uploaded research paper with recent developments in the field.
 # Sample Output Screenshots
 
 ```markdown
-![Upload Interface](images/img1.png)
+![Backend connection](images/backend1.jpg)
 
-![Vector Database](images/img2.png)
+![frontend connection](images/frontend.jpg)
 
-![Query Processing](images/img3.png)
+![outputt](images/op2.jpg)
 
-![Generated Report](images/img4.png)
+![loading the uploaded pdf](images/op1.jpg)
+
+![chatbox to ask a question about the uploaded pdf](images/op3.jpg)
+
+![Asking a question:](images/op4.jpg)
+
+![Generated Report](images/op5.jpg)
+
+![](images/op6.jpg)
+
+![](images/op7.jpg)
+
+![](images/op8.jpg)
+
+![](images/op9.jpg)
+
+![](images/op10.jpg)
+
+![](images/op11.jpg)
+
+![](images/op12.jpg)
 ```
 
 ---
@@ -232,7 +252,6 @@ Compare the uploaded research paper with recent developments in the field.
 * Real-Time Web Search
 * Agent Evaluation Metrics
 * Research Paper Recommendation Engine
-* Streamlit/Web Deployment
 * Production-Ready API Integration
 
 ---
